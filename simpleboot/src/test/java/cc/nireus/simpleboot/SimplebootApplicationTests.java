@@ -1,13 +1,13 @@
-package cc.nireus.simplebootproject;
+package cc.nireus.simpleboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimplebootprojectApplicationTests {
+class SimplebootApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
